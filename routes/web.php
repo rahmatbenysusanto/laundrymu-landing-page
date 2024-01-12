@@ -13,8 +13,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return response()->json([
-       'data'   => 'ini adalah halaman utama aplikasi laundrymu'
-    ]);
-});
+Route::get('/', [\App\Http\Controllers\HomeController::class, 'index']);
+
