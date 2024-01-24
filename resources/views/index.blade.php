@@ -23,7 +23,7 @@
     <meta name="og:url" content="https://laundrymu.id"/>
     <meta name="og:image" content="{{ asset('assets/images/favicon.ico') }}"/>
     <meta name="og:site_name" content="Laundrymu"/>
-    <meta name="og:description" content="A group of U.S. Marines, under command of..."/>
+    <meta name="og:description" content="Optimalkan pengelolaan laundry Anda dengan aplikasi kasir canggih. Aplikasi managament laundry terbaik dan termurah di Indonesia!, cukup bayar Rp 25.000 / bulan anda bisa menikmati semua fitur premium secara langsung dengan menggunakan aplikasi mobile atau website. Fitur utama meliputi kelola pesanan, layanan, parfum, diskon, dan pegawai. Dapatkan laporan transaksi dan tingkatkan efisiensi bisnis laundry Anda. Coba aplikasi kasir laundry kami sekarang."/>
 
     <title>Laundrymu</title>
 
