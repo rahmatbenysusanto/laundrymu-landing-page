@@ -3,15 +3,31 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="Aplikasilaundry, kasirlaundry, Aplikasilaundryonline, management laundry,POS laundry, laundry pintar, kasir laundry, apliksilaundry, aplikasilaundryandroid, jasapembuatanaplikasilaundry, apliaksilaundrymurah, laundryapp, aplikasi laundry terbaik, aplikasi laundry termurah" />
-    <meta name="description" content="Aplikasi managament laundry terbaik dan termurah di Indonesia!, cukup bayar Rp 25.000 / bulan anda bisa menikmati semua fitur premium secara langsung dengan menggunakan aplikasi mobile atau website.">
-    <meta name="Author" content="Laundrymu [www.laundrymu.id]" />
+    <meta name="description" content="Optimalkan pengelolaan laundry Anda dengan aplikasi kasir canggih. Aplikasi managament laundry terbaik dan termurah di Indonesia!, cukup bayar Rp 25.000 / bulan anda bisa menikmati semua fitur premium secara langsung dengan menggunakan aplikasi mobile atau website. Fitur utama meliputi kelola pesanan, layanan, parfum, diskon, dan pegawai. Dapatkan laporan transaksi dan tingkatkan efisiensi bisnis laundry Anda. Coba aplikasi kasir laundry kami sekarang.">
+    <meta name="Author" content="Laundrymu, www.laundrymu.id" />
+    <meta name="subject" content="laundry kasir, managemen laundry">
+    <meta name="copyright" content="Laundrymu">
+    <meta name="language" content="ID">
+    <meta name="robots" content="index,follow" />
+    <meta name="owner" content="laundrymu team">
+    <meta name="url" content="https://laundrymu.id">
+    <meta name="identifier-URL" content="https://laundrymu.id">
+    <meta name="coverage" content="Worldwide">
+    <meta name="distribution" content="Global">
+    <meta name="rating" content="General">
+
+    <meta name="og:title" content="Laundrymu Kasir"/>
+    <meta name="og:type" content="application"/>
+    <meta name="og:url" content="https://laundrymu.id"/>
+    <meta name="og:image" content="{{ asset('assets/images/favicon.ico') }}"/>
+    <meta name="og:site_name" content="Laundrymu"/>
+    <meta name="og:description" content="A group of U.S. Marines, under command of..."/>
 
     <title>Laundrymu</title>
 
-    <link rel="shortcut icon" href="{{ asset('assets/images/laundrymu/logo-sm.jpeg') }}" type="image/png">
+    <link rel="shortcut icon" href="{{ asset('assets/images/favicon.ico') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/font-awesome.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/animate.min.css') }}">
@@ -119,8 +135,8 @@
                 </div>
                 <div class="col-lg-4  col-md-7 col-sm-6 col-6 order-2 order-sm-3">
                     <div class="appie-btn-box text-right">
-                        <a class="login-btn" href="#"><i class="fal fa-user"></i> Login</a>
-                        <a class=" animated_btn ml-30" href="#">Coba Gratis 30 Hari</a>
+                        <a class="login-btn" href="https://app.laundrymu.id"><i class="fal fa-user"></i> Login</a>
+                        <a class=" animated_btn ml-30" href="https://app.laundrymu.id">Coba Gratis 30 Hari</a>
                         <div class="toggle-btn ml-30 canvas_open d-lg-none d-block">
                             <i class="fa fa-bars"></i>
                         </div>
@@ -142,7 +158,7 @@
                     <p>Lupakan ribetnya transaksi, aplikasi kasir laundry kami membuat
                         semuanya jadi lebih ringan dan efektif!</p>
                     <ul>
-                        <li><a href="#" style="background: rgba(252, 125, 52, 1); border: 1px solid rgba(252, 125, 52, 1)">Coba Gratis 30 Hari</a></li>
+                        <li><a href="https://app.laundrymu.id" style="background: rgba(252, 125, 52, 1); border: 1px solid rgba(252, 125, 52, 1)">Coba Gratis 30 Hari</a></li>
                         <li><a class="item-2" href="#"><i class="fab fa-google-play"></i> Download for Android</a></li>
                     </ul>
                 </div>
