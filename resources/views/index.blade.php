@@ -4,28 +4,35 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="keywords" content="Aplikasilaundry, kasirlaundry, Aplikasilaundryonline, management laundry,POS laundry, laundry pintar, kasir laundry, apliksilaundry, aplikasilaundryandroid, jasapembuatanaplikasilaundry, apliaksilaundrymurah, laundryapp, aplikasi laundry terbaik, aplikasi laundry termurah" />
-    <meta name="description" content="Optimalkan pengelolaan laundry Anda dengan aplikasi kasir canggih. Aplikasi managament laundry terbaik dan termurah di Indonesia!, cukup bayar Rp 25.000 / bulan anda bisa menikmati semua fitur premium secara langsung dengan menggunakan aplikasi mobile atau website. Fitur utama meliputi kelola pesanan, layanan, parfum, diskon, dan pegawai. Dapatkan laporan transaksi dan tingkatkan efisiensi bisnis laundry Anda. Coba aplikasi kasir laundry kami sekarang.">
-    <meta name="Author" content="Laundrymu, www.laundrymu.id" />
-    <meta name="subject" content="laundry kasir, managemen laundry">
-    <meta name="copyright" content="Laundrymu">
-    <meta name="language" content="ID">
-    <meta name="robots" content="index,follow" />
-    <meta name="owner" content="laundrymu team">
-    <meta name="url" content="https://laundrymu.id">
-    <meta name="identifier-URL" content="https://laundrymu.id">
-    <meta name="coverage" content="Worldwide">
-    <meta name="distribution" content="Global">
+
+    <meta name="description" content="Temukan solusi kasir laundry terbaik dan termurah untuk usaha Anda! Aplikasi kasir laundry kami menyediakan fitur lengkap seperti manajemen pelanggan, pencatatan transaksi, laporan keuangan, dan banyak lagi. Tingkatkan efisiensi dan kendalikan biaya operasional dengan mudah. Dengan antarmuka yang intuitif dan harga yang terjangkau, aplikasi kasir laundry kami adalah pilihan ideal untuk meningkatkan produktivitas bisnis Anda. Dapatkan manfaat dari teknologi terkini tanpa harus merogoh kocek dalam. Jelajahi fitur-fitur kami sekarang!"
+    <meta name="keywords" content="aplikasi kasir laundry, kasir laundry online, sistem manajemen laundry, software kasir laundry, fitur kasir laundry, aplikasi laundry terbaik, solusi kasir laundry, harga terjangkau, manajemen transaksi laundry, aplikasi pencatatan laundry, keuangan laundry, efisiensi bisnis laundry">
+    <link rel="canonical" href="https://www.laundrymu.id">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="Aplikasi Kasir Laundry: Solusi Terbaik dan Terjangkau untuk Bisnis Anda">
+    <meta property="og:description" content="Temukan solusi terbaik untuk pengelolaan laundry Anda dengan Aplikasi Kasir Laundry kami. Dengan fitur lengkap seperti manajemen pelanggan, pencatatan transaksi, laporan keuangan, dan kemudahan penggunaan, aplikasi ini membantu meningkatkan efisiensi bisnis Anda. Nikmati pengalaman kasir yang lebih baik, kendalikan biaya operasional, dan tingkatkan produktivitas dengan harga yang terjangkau. Jelajahi fitur kami sekarang untuk solusi kasir laundry yang cerdas dan efektif." />
+    <meta property="og:image" content="{{ asset('assets/images/logo.png') }}">
+    <meta property="og:url" content="https://www.laundrymu.id">
+
+    <meta name="author" content="Laundrymu">
+    <meta name="language" content="id">
+    <meta name="publisher" content="Laundrymu Team">
+    <meta name="revisit-after" content="7 days">
+    <meta name="geo.region" content="ID-JT">
+    <meta name="geo.placename" content="Nort Jakarta, DKI Jakarta">
+    <meta name="geo.position" content="-6.14470507489489; 106.8564571007553">
     <meta name="rating" content="General">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="Laundrymu">
+    <meta name="google-site-verification" content="your-verification-code">
+    <meta name="referrer" content="no-referrer">
+    <meta http-equiv="Content-Security-Policy" content="policy-details">
+    <meta http-equiv="content-security-policy" content="max-age=31536000">
 
-    <meta name="og:title" content="Laundrymu Kasir"/>
-    <meta name="og:type" content="application"/>
-    <meta name="og:url" content="https://laundrymu.id"/>
-    <meta name="og:image" content="{{ asset('assets/images/favicon.ico') }}"/>
-    <meta name="og:site_name" content="Laundrymu"/>
-    <meta name="og:description" content="Optimalkan pengelolaan laundry Anda dengan aplikasi kasir canggih. Aplikasi managament laundry terbaik dan termurah di Indonesia!, cukup bayar Rp 25.000 / bulan anda bisa menikmati semua fitur premium secara langsung dengan menggunakan aplikasi mobile atau website. Fitur utama meliputi kelola pesanan, layanan, parfum, diskon, dan pegawai. Dapatkan laporan transaksi dan tingkatkan efisiensi bisnis laundry Anda. Coba aplikasi kasir laundry kami sekarang."/>
 
-    <title>Laundrymu</title>
+
+    <title>Laundrymu - Aplikasi Laundry Termurah</title>
 
     <link rel="shortcut icon" href="{{ asset('assets/images/favicon.ico') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
@@ -53,7 +60,7 @@
                         <a href="javascript:void(0)"><i class="fa fa-times"></i></a>
                     </div>
                     <div class="offcanvas-brand text-center mb-40">
-                        <img src="{{ asset('assets/images/logo.png') }}" alt="">
+                        <img src="{{ asset('assets/images/logo.png') }}" alt="laundrymu-logo">
                     </div>
                     <div id="menu" class="text-left ">
                         <ul class="offcanvas_main_menu">
@@ -105,7 +112,7 @@
                 <div class="col-lg-2 col-md-4 col-sm-5 col-6 order-1 order-sm-1">
                     <div class="appie-logo-box">
                         <a href="#">
-                            <img src="{{ asset('assets/images/laundrymu/logo.png') }}" alt="">
+                            <img src="{{ asset('assets/images/laundrymu/logo.png') }}" alt="aplikasi laundrymu">
                         </a>
                     </div>
                 </div>
@@ -153,31 +160,30 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="appie-hero-content">
-                    <h1 class="appie-title">Solusi Cerdas untuk Mengelola
-                        Bisnis Laundry Anda.</h1>
+                    <h1 class="appie-title">Solusi Cerdas untuk Mengelola Bisnis Laundry Anda.</h1>
                     <p>Lupakan ribetnya transaksi, aplikasi kasir laundry kami membuat
                         semuanya jadi lebih ringan dan efektif!</p>
                     <ul>
-                        <li><a href="https://app.laundrymu.id" style="background: rgba(252, 125, 52, 1); border: 1px solid rgba(252, 125, 52, 1)">Coba Gratis 30 Hari</a></li>
+                        <li><a href="https://app.laundrymu.id" class="button-orange">Coba Gratis 30 Hari</a></li>
                         <li><a class="item-2" href="#"><i class="fab fa-google-play"></i> Download for Android</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="text-center">
-                    <img style="max-width: 400px" src="{{ asset('assets/images/laundrymu/hero.png') }}" alt="">
+                    <img class="hero-image" src="{{ asset('assets/images/laundrymu/hero.png') }}" alt="tampilan laundrymu">
                 </div>
             </div>
         </div>
     </div>
     <div class="hero-shape-1">
-        <img src="{{ asset('assets/images/shape/shape-2.png') }}" alt="">
+        <img src="{{ asset('assets/images/shape/shape-2.png') }}" alt="aplikasi laundry">
     </div>
     <div class="hero-shape-2">
-        <img src="{{ asset('assets/images/shape/shape-3.png') }}" alt="">
+        <img src="{{ asset('assets/images/shape/shape-3.png') }}" alt="aplikasi laundry">
     </div>
     <div class="hero-shape-3">
-        <img src="{{ asset('assets/images/shape/shape-4.png') }}" alt="">
+        <img src="{{ asset('assets/images/shape/shape-4.png') }}" alt="aplikasi laundry">
     </div>
 </section >
 
@@ -275,7 +281,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-6">
                                 <div class="appie-features-thumb text-center wow animated fadeInUp" data-wow-duration="2000ms" data-wow-delay="200ms">
-                                    <img style="max-width: 300px" src="{{ asset('assets/images/laundrymu/dashboard.png') }}" alt="laundrymu">
+                                    <img class="max-300" src="{{ asset('assets/images/laundrymu/dashboard.png') }}" alt="laundrymu">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -292,7 +298,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-6">
                                 <div class="appie-features-thumb text-center animated fadeInUp" data-wow-duration="2000ms" data-wow-delay="200ms">
-                                    <img style="max-width: 300px" src="{{ asset('assets/images/laundrymu/transaksi.png') }}" alt="laundrymu">
+                                    <img class="max-300" src="{{ asset('assets/images/laundrymu/transaksi.png') }}" alt="laundrymu">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -309,7 +315,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-6">
                                 <div class="appie-features-thumb text-center animated fadeInUp" data-wow-duration="2000ms" data-wow-delay="200ms">
-                                    <img style="max-width: 300px" src="{{ asset('assets/images/laundrymu/status.png') }}" alt="laundrymu">
+                                    <img class="max-300" src="{{ asset('assets/images/laundrymu/status.png') }}" alt="laundrymu">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -326,7 +332,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-6">
                                 <div class="appie-features-thumb text-center animated fadeInUp" data-wow-duration="2000ms" data-wow-delay="200ms">
-                                    <img style="max-width: 300px" src="{{ asset('assets/images/laundrymu/menu.png') }}" alt="laundrymu">
+                                    <img class="max-300" src="{{ asset('assets/images/laundrymu/menu.png') }}" alt="laundrymu">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -344,13 +350,13 @@
         </div>
     </div>
     <div class="features-shape-1">
-        <img src="{{ asset('assets/images/shape/shape-6.png') }}" alt="">
+        <img src="{{ asset('assets/images/shape/shape-6.png') }}" alt="laundrymu">
     </div>
     <div class="features-shape-2">
-        <img src="{{ asset('assets/images/shape/shape-7.png') }}" alt="">
+        <img src="{{ asset('assets/images/shape/shape-7.png') }}" alt="laundrymu">
     </div>
     <div class="features-shape-3">
-        <img src="{{ asset('assets/images/shape/shape-8.png') }}" alt="">
+        <img src="{{ asset('assets/images/shape/shape-8.png') }}" alt="laundrymu">
     </div>
 </section>
 
@@ -410,7 +416,7 @@
         </div>
     </div>
     <div class="traffic-thumb ">
-        <img class="wow animated fadeInRight" data-wow-duration="2000ms" data-wow-delay="200ms" style="max-width: 800px" src="assets/images/laundrymu/ipad.png" alt="">
+        <img class="wow animated fadeInRight max-800" data-wow-duration="2000ms" data-wow-delay="200ms" src="{{ asset('assets/images/laundrymu/ipad.png') }}" alt="aplikasi laundry laundrymu">
     </div>
 </section>
 
@@ -421,7 +427,7 @@
                 <div class="appie-testimonial-slider">
                     <div class="appie-testimonial-item text-center">
                         <div class="author-info">
-                            <img src="{{ asset('assets/images/testimonial-user.png') }}" alt="">
+                            <img src="{{ asset('assets/images/testimonial-user.png') }}" alt="aplikasi laundry laundrymu">
                             <h5 class="title">Mooda Laundry</h5>
                             <span>Desember 15, 2023</span>
                         </div>
@@ -438,7 +444,7 @@
                     </div>
                     <div class="appie-testimonial-item text-center">
                         <div class="author-info">
-                            <img src="{{ asset('assets/images/testimonial-user.png') }}" alt="">
+                            <img src="{{ asset('assets/images/testimonial-user.png') }}" alt="aplikasi laundry laundrymu">
                             <h5 class="title">Hasni Laundry</h5>
                             <span>September 14, 2023</span>
                         </div>
@@ -455,7 +461,7 @@
                     </div>
                     <div class="appie-testimonial-item text-center">
                         <div class="author-info">
-                            <img src="{{ asset('assets/images/testimonial-user.png') }}" alt="">
+                            <img src="{{ asset('assets/images/testimonial-user.png') }}" alt="aplikasi laundry laundrymu">
                             <h5 class="title">Bersih Wangi Laundry</h5>
                             <span>Januari 03, 2024</span>
                         </div>
@@ -676,7 +682,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="appie-blog-item mt-30 wow animated fadeInUp" data-wow-duration="3000ms" data-wow-delay="200ms">
                     <div class="thumb">
-                        <img src="{{ asset('assets/images/blog-1.jpg') }}" alt="">
+                        <img src="{{ asset('assets/images/blog-1.jpg') }}" alt="aplikasi laundry laundrymu">
                     </div>
                     <div class="content">
                         <div class="blog-meta">
@@ -693,7 +699,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="appie-blog-item mt-30 wow animated fadeInUp" data-wow-duration="3000ms" data-wow-delay="400ms">
                     <div class="thumb">
-                        <img src="{{ asset('assets/images/blog-2.jpg') }}" alt="">
+                        <img src="{{ asset('assets/images/blog-2.jpg') }}" alt="aplikasi laundry laundrymu">
                     </div>
                     <div class="content">
                         <div class="blog-meta">
@@ -710,7 +716,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="appie-blog-item mt-30 wow animated fadeInUp" data-wow-duration="3000ms" data-wow-delay="600ms">
                     <div class="thumb">
-                        <img src="{{ asset('assets/images/blog-3.jpg') }}" alt="">
+                        <img src="{{ asset('assets/images/blog-3.jpg') }}" alt="aplikasi laundry laundrymu">
                     </div>
                     <div class="content">
                         <div class="blog-meta">
@@ -748,7 +754,7 @@
                         </div>
                     </div>
                     <div class="appie-project-thumb">
-                        <img src="{{ asset('assets/images/project-thumb.png') }}" alt="">
+                        <img src="{{ asset('assets/images/project-thumb.png') }}" alt="aplikasi laundry laundrymu">
                     </div>
                 </div>
             </div>
@@ -762,15 +768,15 @@
             <div class="col-lg-4 col-md-6">
                 <div class="footer-about-widget">
                     <div class="logo">
-                        <a href="#"><img style="max-width: 200px" src="{{ asset('assets/images/laundrymu/logo.png') }}" alt=""></a>
+                        <a href="#"><img class="max-200" src="{{ asset('assets/images/laundrymu/logo.png') }}" alt="aplikasi laundry laundrymu"></a>
                     </div>
                     <p>Aplikasi Managament laundry dengan fitur terlangkap dan harga termurah.</p>
                     <a href="#">Baca Selengkapnya <i class="fal fa-arrow-right"></i></a>
                     <div class="social mt-30">
                         <ul>
                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
+                            <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                             <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                         </ul>
                     </div>
@@ -778,7 +784,7 @@
             </div>
             <div class="col-lg-2 col-md-6">
                 <div class="footer-navigation">
-                    <h4 class="title">Company</h4>
+                    <h4 class="title">Menu</h4>
                     <ul>
                         <li><a href="#">About Us</a></li>
                         <li><a href="#">Service</a></li>
@@ -816,7 +822,6 @@
                 <div class="footer-copyright d-flex align-items-center justify-content-between pt-35">
                     <div class="apps-download-btn">
                         <ul>
-                            <li><a href="#"><i class="fab fa-apple"></i> Download for iOS</a></li>
                             <li><a class="item-2" href="#"><i class="fab fa-google-play"></i> Download for Android</a></li>
                         </ul>
                     </div>
@@ -844,6 +849,16 @@
 <script src="{{ asset('assets/js/slick.min.js') }}"></script>
 <script src="{{ asset('assets/js/jquery.magnific-popup.min.js') }}"></script>
 <script src="{{ asset('assets/js/main.js') }}"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P1D7JRXHYH"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-P1D7JRXHYH');
+</script>
 
 </body>
 
