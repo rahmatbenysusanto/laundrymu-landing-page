@@ -5,7 +5,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <meta name="description" content="Temukan solusi kasir laundry terbaik dan termurah untuk usaha Anda! Aplikasi kasir laundry kami menyediakan fitur lengkap seperti manajemen pelanggan, pencatatan transaksi, laporan keuangan, dan banyak lagi. Tingkatkan efisiensi dan kendalikan biaya operasional dengan mudah. Dengan antarmuka yang intuitif dan harga yang terjangkau, aplikasi kasir laundry kami adalah pilihan ideal untuk meningkatkan produktivitas bisnis Anda. Dapatkan manfaat dari teknologi terkini tanpa harus merogoh kocek dalam. Jelajahi fitur-fitur kami sekarang!"
+    <meta name="description" content="Temukan solusi kasir laundry terbaik dan termurah untuk usaha Anda! Aplikasi kasir laundry kami menyediakan fitur lengkap seperti manajemen pelanggan, pencatatan transaksi, laporan keuangan, dan banyak lagi. Tingkatkan efisiensi dan kendalikan biaya operasional dengan mudah. Dengan antarmuka yang intuitif dan harga yang terjangkau, aplikasi kasir laundry kami adalah pilihan ideal untuk meningkatkan produktivitas bisnis Anda. Dapatkan manfaat dari teknologi terkini tanpa harus merogoh kocek dalam. Jelajahi fitur-fitur kami sekarang!">
     <meta name="keywords" content="aplikasi kasir laundry, kasir laundry online, sistem manajemen laundry, software kasir laundry, fitur kasir laundry, aplikasi laundry terbaik, solusi kasir laundry, harga terjangkau, manajemen transaksi laundry, aplikasi pencatatan laundry, keuangan laundry, efisiensi bisnis laundry">
     <link rel="canonical" href="https://www.laundrymu.id">
     <meta name="robots" content="index, follow">
