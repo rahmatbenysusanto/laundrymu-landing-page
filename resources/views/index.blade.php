@@ -29,8 +29,7 @@
     <meta name="referrer" content="no-referrer">
     <meta http-equiv="Content-Security-Policy" content="policy-details">
     <meta http-equiv="content-security-policy" content="max-age=31536000">
-
-
+    <meta name="google-site-verification" content="Y63y5zq9Sr2mRsAN32IMHPwVAa4bOCZpFujREbEwvBI" />
 
     <title>Laundrymu - Aplikasi Laundry Termurah</title>
 
